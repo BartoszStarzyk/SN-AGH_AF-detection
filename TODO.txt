@@ -1,6 +1,0 @@
-# TODO:
-# DICE loss
-# sprawdzenie na innym datasecie
-# dokumentacja
-# interfejs do ewaluacji
-# Pasek postępu do trenowania
